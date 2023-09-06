@@ -10,7 +10,7 @@ The original data is the COCO 2017 subset's object detection annotation which we
 
 ### Setup
 
-To setup for running the Python code, please install the required packages in requirements.txt.
+To setup for running the Python code, please install the required packages in requirements.txt within the `co-occurrence-model` folder.
 
 ```
 pip install -r requirements.txt
