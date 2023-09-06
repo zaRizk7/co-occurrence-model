@@ -1,0 +1,11 @@
+torch
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+jupyter-dash
+einops
+scikit-learn
+pyro-ppl
+xgboost

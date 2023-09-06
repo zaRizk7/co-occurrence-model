@@ -1,0 +1,2 @@
+from einet_addons.structure.bin_g import bin_g_region_graph
+from einet_addons.structure.rat_spn import rat_spn_region_graph

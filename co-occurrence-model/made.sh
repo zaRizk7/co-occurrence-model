@@ -1,0 +1,14 @@
+python train_made.py \
+  --train-dir dataset/coco2017-cooccurences-train.csv \
+  --test-dir dataset/coco2017-cooccurences-valid.csv \
+  --num-epochs 500 \
+  --learning-rate 1e-4 \
+  --export-dir outputs/made \
+  --export-name made \
+  --width 512 \
+  --batch-size 8196 \
+  --scheduler \
+  --lamb \
+  --device cuda \
+  --activation relu \
+  --num-workers 8
